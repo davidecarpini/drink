@@ -1,3 +1,5 @@
 notify every 30 minutes
 
-*/30 * * * * cd /Users/davidecarpini/acutus/drink && ./run.sh
+configure cronjob:
+
+*/30 * * * * cd ../path/toscript ./run.sh
